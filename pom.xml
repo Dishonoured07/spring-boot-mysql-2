@@ -58,6 +58,10 @@
 		</plugins>
 
 		<finalName>spring-boot-mysql-2</finalName>
+
+		
+	
+
 	</build>
 
 
